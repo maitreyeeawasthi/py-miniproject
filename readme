@@ -1,0 +1,15 @@
+Description
+This Python script implements a simple Rock-Paper-Scissors game that allows you to play against the computer. In this classic game, both the user and the computer choose one of the three options: "rock," "paper," or "scissors." The winner is determined by the following rules:
+*Rock beats Scissors
+*Paper beats Rock
+*Scissors beats Paper
+*The game continues until the user decides to quit by typing "q."
+
+How to Play:
+Run the script in a Python environment.
+The program will prompt you to enter your choice: "rock," "paper," or "scissors." Type your choice and press Enter.
+The computer will randomly select one of the three options as well.
+The program will compare the choices and announce the winner: "You won!" if the user wins or "You Lost!" if the computer wins.
+The game will keep track of the number of times you win and the number of times the computer wins.
+After each round, the program will display the current score (the number of user wins and computer wins).
+The game will continue, and you can play as many rounds as you like until you decide to quit by typing "q."
